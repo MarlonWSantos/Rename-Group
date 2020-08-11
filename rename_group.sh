@@ -2,7 +2,7 @@
 #
 #
 #
-#   Rename Group - Renamed a group of files with same 
+#   Rename Group - Rename a group of files with same 
 #   Copyright (C) 2020 Marlon W. Santos <marlon.santos.santos@icen.ufpa.br>
 #
 #
